@@ -1,0 +1,62 @@
+.text-header{
+  margin-left: 900;
+  margin-top: 53px;
+}
+
+.navbar-default{
+
+  background-color: rgba(0,0,0,0.8);
+}
+
+.navbar-bas{
+
+  background-color: white;
+
+}
+
+h2{
+
+  font-size: 52px;
+    line-height: 1.08654;
+    font-weight: 200;
+    letter-spacing: -0.014em;
+}
+
+.intro{
+
+  position: relative;
+    font-size: 24px;
+    line-height: 1.35417;
+    font-weight: 200;
+    letter-spacing: normal;
+}
+
+.section_un{
+  background-color: #DCDCDC;
+}
+.section_deux{
+  background-color: #F5F5F5;
+}
+
+.mt{
+  font-size: 28px;
+}
+
+.text_footer{
+  margin-left: -145px;
+  margin-top: 5px;
+}
+.image-hero{
+background-repeat: no-repeat;
+    background-size: 1727px 852px;
+    height: 852px;
+    width: 1727px;
+    background-image: url("./hero_large.jpg");
+    margin-right: -162px;
+
+  }
+
+.text-transform{
+  margin: 0px 214px;
+  text-align: center;
+}
